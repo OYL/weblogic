@@ -1,4 +1,4 @@
-#weblogic Jms  
+#  weblogic Jms  
 在weblogic服务器中配置。  
 1.新建服务器名称JMSServer-0  
 2.新建连接工厂，JNDI为connectionFactory  
